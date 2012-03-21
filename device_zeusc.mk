@@ -56,6 +56,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.rild.nitz_short_ons_2= \
     persist.rild.nitz_short_ons_3= \
     ro.telephony.ril.v3=datacall \
+    ro.telephony.ril.v3=datacall \
     ro.cdma.homesystem=64,65,76,77,78,79,80,81,82,83 \
     ro.cdma.home.operator.numeric=310012 \
     ro.cdma.home.operator.alpha=Verizon \
