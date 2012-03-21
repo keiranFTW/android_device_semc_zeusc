@@ -1,7 +1,7 @@
 #!/bin/sh
 
 VENDOR=semc
-DEVICE=zeus
+DEVICE=zeusc
 OUTDIR=vendor/$VENDOR/$DEVICE
 MAKEFILE=../../../$OUTDIR/$DEVICE-vendor-blobs.mk
 
