@@ -14,4 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo zeus-eng
+add_lunch_combo zeusc-eng
+add_lunch_combo cm_zeusc-userdebug

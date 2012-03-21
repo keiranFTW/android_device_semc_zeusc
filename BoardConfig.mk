@@ -1,5 +1,5 @@
 -include device/semc/zeus-common/BoardConfigCommon.mk
--include vendor/semc/zeus/BoardConfigVendor.mk
+-include vendor/semc/zeusc/BoardConfigVendor.mk
 
 SENSORS_COMPASS_AK897X := true
 SENSORS_ACCEL_BMA150_INPUT := true
@@ -9,5 +9,5 @@ SENSORS_PRESSURE_BMP180 := false
 
 TARGET_TOUCHPAD_INPUT_DEVICE_ID := 0x10003
 
-TARGET_OTA_ASSERT_DEVICE := R800i,R800a,R800at,zeus
+TARGET_OTA_ASSERT_DEVICE := R800i,R800a,R800at,R800x,zeus,zeusc
 
